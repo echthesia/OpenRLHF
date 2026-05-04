@@ -13,7 +13,7 @@ loralib
 optimum
 optree>=0.15.0
 packaging
-peft
+peft<0.19
 pylatexenc
 pynvml>=12.0.0
 ray[default]==2.55.0
